@@ -1,0 +1,13 @@
+#
+/.idea
+*.db
+*.kdbx
+/__pycache__
+/backend/databases
+/venv
+/backend/settings.py
+/backend/__pycache__/
+/backend/crypto_and_keePass_interaction/__pycache__/
+/backend/user_data/__pycache__/
+/logs/*.log
+/logs/__pycache__

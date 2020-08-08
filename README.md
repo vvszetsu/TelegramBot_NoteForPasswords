@@ -5,7 +5,7 @@
 Made by @delanary and @akamelk
 
 Для того, чтоб всё работало, нужно:
-1) В файле backend/settings.py в  кавычки TOKEN = '' вставить токен бота (можно получить у @BotFather
+1) Cоздать файл backend/settings.py, написать туда "TOKEN = ''". В  кавычки TOKEN = '' вставить токен бота (можно получить у @BotFather)
 2) Установить все библиотеки из requirements.txt (pip install -r requirements.txt)
 3) Выполнить backend/db_config.py
 4) Запустить скрипт main.py 
